@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.geoquiz.app-debug-36:/layout_activity_cheat.xml.flat",
+        "source": "com.example.geoquiz.app-main-38:/layout/activity_cheat.xml"
+    },
+    {
+        "merged": "com.example.geoquiz.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.example.geoquiz.app-main-38:/layout/activity_main.xml"
+    }
+]
